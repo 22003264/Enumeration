@@ -99,12 +99,19 @@ Get the namservers (threaded).
 Get the MX record (threaded).
 
 Perform axfr queries on nameservers and get BIND versions(threaded).
+
 Get extra names and subdomains via google scraping (google query = “allinurl: -www site:domain”).
+
 Brute force subdomains from file, can also perform recursion on subdomain that have NS records (all threaded).
+
 Calculate C class domain network ranges and perform whois queries on them (threaded).
+
 Perform reverse lookups on netranges (C class or/and whois netranges) (threaded).
+
 Write to domain_ips.txt file ip-blocks.
+
 This program is useful for pentesters, ethical hackers and forensics experts. It also can be used for security tests.
+
 ## OUTPUT:
 ![Screenshot from 2023-05-22 04-51-50](https://github.com/22003264/Enumeration/assets/119389139/2c7f0da3-b169-4390-a802-e7da5842a787)
 
